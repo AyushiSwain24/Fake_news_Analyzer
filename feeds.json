@@ -1,0 +1,58 @@
+{
+  "Business": [
+    "https://www.cnbc.com/id/10001147/device/rss/rss.html",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
+    "http://feeds.washingtonpost.com/rss/business",
+    "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+    "https://fortune.com/feed/"
+  ],
+  "Politics": [
+    "https://rss.politico.com/politics-news.xml",
+    "https://thehill.com/feed/",
+    "http://feeds.foxnews.com/foxnews/politics",
+    "http://rss.cnn.com/rss/cnn_allpolitics.rss",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"
+  ],
+  "Technology": [
+    "https://techcrunch.com/feed/",
+    "https://www.theverge.com/rss/index.xml",
+    "https://www.wired.com/feed/rss",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+    "http://feeds.arstechnica.com/arstechnica/index"
+  ],
+  "Sports": [
+    "https://www.espn.com/espn/rss/news",
+    "https://www.cbssports.com/rss/headlines/",
+    "https://sports.yahoo.com/rss/",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml",
+    "https://www.si.com/.rss/full/"
+  ],
+  "Entertainment": [
+    "https://variety.com/feed/",
+    "https://www.hollywoodreporter.com/feed/",
+    "https://www.eonline.com/syndication/feeds/rssfeeds/topstories.xml",
+    "https://people.com/feed/",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Movies.xml"
+  ],
+  "Health": [
+    "http://rss.cnn.com/rss/cnn_health.rss",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
+    "https://www.health.com/feed",
+    "http://rssfeeds.webmd.com/rss/rss.aspx?RSSSource=rss_public",
+    "https://newsnetwork.mayoclinic.org/feed/"
+  ],
+  "Science": [
+    "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+    "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+    "https://www.sciencedaily.com/rss/top_news/top_science.xml",
+    "http://rss.sciam.com/ScientificAmerican-Global",
+    "https://www.wired.com/category/science/feed"
+  ],
+  "General": [
+    "http://rss.cnn.com/rss/cnn_topstories.rss",
+    "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+    "https://feeds.npr.org/1001/rss.xml",
+    "http://rssfeeds.usatoday.com/usatoday-NewsTopStories",
+    "http://feeds.foxnews.com/foxnews/latest"
+  ]
+}
