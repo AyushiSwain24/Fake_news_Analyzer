@@ -1,0 +1,25 @@
+[theme]
+# Mobile-optimized color scheme
+primaryColor = "#FF4B4B"
+backgroundColor = "#f9f9f9"
+secondaryBackgroundColor = "#e0e0e0"
+textColor = "#000000"
+font = "sans serif"
+
+[client]
+# Mobile browser optimization
+showErrorDetails = true
+toolbarMode = "minimal"
+showSidebarNavigation = true
+
+[logger]
+level = "info"
+
+[server]
+# Optimize for mobile connections
+maxUploadSize = 50
+enableXsrfProtection = true
+
+[browser]
+# Mobile device support
+gatherUsageStats = false

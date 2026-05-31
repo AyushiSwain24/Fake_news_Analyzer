@@ -1,9 +1,22 @@
-beautifulsoup4
-lxml
-requests
-pandas
-numpy
-nltk
-scikit-learn
-joblib
-streamlit
+beautifulsoup4>=4.10
+lxml>=4.9
+requests>=2.28
+pandas>=1.5
+numpy>=1.23
+nltk>=3.8
+scikit-learn>=1.2
+joblib>=1.2
+streamlit>=1.20
+gnews>=0.2
+opencv-python-headless>=4.7
+Pillow>=9.5
+scipy>=1.9
+pytesseract>=0.3
+paddleocr>=2.7
+torch>=2.0; sys_platform != 'win32' or python_version < '3.11'
+# Google MLKit Vision Equivalent - MediaPipe for on-device text detection
+mediapipe>=0.10.0
+# Advanced NLP models for improved accuracy
+transformers>=4.30.0
+# For model inference acceleration
+tqdm>=4.65
